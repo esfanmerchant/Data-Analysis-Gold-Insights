@@ -33,7 +33,7 @@ This project performs an Exploratory Data Analysis (EDA) on the "Gold Insights (
 ## 🚀 Getting Started
 ### Clone this repository:
 ```bash
-git clone https://github.com/esfanmerchant/Gold-Insights-EDA.git
+git clone https://github.com/esfanmerchant/Data-Analysis-Gold-Insights.git
 ```
 
 ### Install dependencies:
